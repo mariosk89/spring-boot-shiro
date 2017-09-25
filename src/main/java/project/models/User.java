@@ -1,10 +1,8 @@
 package project.models;
 
-import org.apache.shiro.crypto.hash.Hash;
 import project.tools.PasswordEncryptor;
 
 import javax.persistence.*;
-import javax.validation.constraints.NotNull;
 
 @Entity
 @Table(name = "users",

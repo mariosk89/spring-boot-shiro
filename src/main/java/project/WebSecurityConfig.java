@@ -1,4 +1,4 @@
-package project.configuration;
+package project;
 
 import org.apache.shiro.authc.credential.HashedCredentialsMatcher;
 import org.apache.shiro.crypto.hash.Sha256Hash;

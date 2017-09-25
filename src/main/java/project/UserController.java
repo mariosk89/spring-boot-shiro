@@ -1,4 +1,4 @@
-package project.controllers;
+package project;
 
 /**
  * Created by mariosk89 on 12-Mar-16.
@@ -7,7 +7,6 @@ import org.springframework.web.bind.annotation.*;
 import project.models.User;
 import project.models.UserDao;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
 
 import java.util.List;
 

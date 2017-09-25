@@ -1,4 +1,4 @@
-package project.configuration;
+package project;
 
 /**
  * Created by mariosk89 on 19-Mar-16.

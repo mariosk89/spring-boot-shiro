@@ -1,6 +1,5 @@
 package project.tools;
 
-import org.apache.shiro.crypto.hash.Hash;
 import org.apache.shiro.crypto.hash.Sha256Hash;
 
 /**
